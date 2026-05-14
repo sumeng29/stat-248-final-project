@@ -14,7 +14,7 @@ Do daily S&P 500 returns show volatility clustering, and does modeling time-vary
 
 
 
-# requirements
+# Requirements
 
 - pandas
 - numpy
